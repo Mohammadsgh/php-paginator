@@ -6,7 +6,7 @@ a powerful php paginator that you can paginate your data
 
 Install with composer command: 
 
-    composer require "Mohammadsgh/paginator:~1.0"
+    composer require "Mohammadsgh/paginator:~1.0.0"
 
 ## Basic usage
 
