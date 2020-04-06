@@ -56,5 +56,5 @@ Install with composer command:
     </body>
     </html>
 
-## More Example
+## More Examples
 to use more examples take a look at the [examples](examples) directory folder.
